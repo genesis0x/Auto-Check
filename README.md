@@ -12,7 +12,7 @@
 
 
 # EXAMPLE
-
+```
 $ ls 
 c00/    c03/    c06/    
 c01/    c04/    c07/    
@@ -38,3 +38,4 @@ Downloading test files..
 100     1  100     1    0     0      2      0 --:--:-- --:--:-- --:--:--     2
 Grading c00/ex00..
 c00/ex00: OK, Norme: OK
+```
