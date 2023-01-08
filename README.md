@@ -4,7 +4,7 @@
 
 # Usage
 
-1. curl -L bit.ly/joxycodes  > Auto-Check.sh
+1. curl -L https://raw.githubusercontent.com/genesis0x/Auto-Check/main/autocheck.sh  > Auto-Check.sh
 2. Run script using ```bash Auto-Check.sh``` or ```./Auto-Check.sh```.
 3. Script takes optional argument ```keep``` to keep downloaded test files in ```/$PROJECT/$EXERCISE/```.
 4. Follow script prompts.
@@ -29,12 +29,12 @@ You selected c00. Select exercise to grade:
 You selected ex00.
 Downloading test files..
 
-[1/2]: htps://raw.githubusercontent.com/JOXBOX/Auto-Check/master/c00/ex00/main.c --> c00/ex00/main.c
+[1/2]: https://raw.githubusercontent.com/genesis0x/Auto-Check/master/c00/ex00/main.c --> c00/ex00/main.c
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100   969  100   969    0     0   1818      0 --:--:-- --:--:-- --:--:--  1814
 
-[2/2]: htps://raw.githubusercontent.com/JOXBOX/Auto-Check/master/c00/ex00/test_output --> c00/ex00/test_output
+[2/2]: https://raw.githubusercontent.com/genesis0x/Auto-Check/master/c00/ex00/test_output --> c00/ex00/test_output
 100     1  100     1    0     0      2      0 --:--:-- --:--:-- --:--:--     2
 Grading c00/ex00..
 c00/ex00: OK, Norme: OK
